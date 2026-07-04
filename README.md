@@ -1,9 +1,8 @@
 [README.md](https://github.com/user-attachments/files/29660596/README.md)
-# Cloudnium_monitor
-Cloudnium补货提醒，网页内容变化提醒。由claude code与deepseek v4 pro模型完成。
+
 # Cloudnium VPS 补货监控
 
-自动监控 [Cloudnium](https://portal.cloudnium.net) VPS 产品补货情况，支持多种通知方式。
+自动监控 [Cloudnium](https://portal.cloudnium.net) VPS 产品补货情况，可服务器部署，支持多种通知方式。
 
 ## ✨ 功能
 
